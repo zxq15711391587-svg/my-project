@@ -1,3 +1,7 @@
 {
-  "name": "my-project"
+  "name": "my-project",
+  "uuid": "566dd58e-9e89-4b1f-b483-65cee72f2bf1",
+  "creator": {
+    "version": "3.8.7"
+  }
 }
